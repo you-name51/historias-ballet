@@ -358,9 +358,9 @@
    "fecha": "2027-01-09",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/clase_gratis_boleto.mp4",
-   "nota": "clase_gratis_boleto",
-   "imagen_fija": "img/clase_gratis_boleto.jpg"
+   "archivo": "video/boleto_bailarina.mp4",
+   "nota": "boleto_bailarina",
+   "imagen_fija": "img/boleto_bailarina.jpg"
   },
   {
    "fecha": "2027-01-10",
