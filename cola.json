@@ -20,10 +20,11 @@
   },
   {
    "fecha": "2026-11-28",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/casi_diciembre.jpg",
-   "nota": "casi_diciembre"
+   "archivo": "video/casi_diciembre.mp4",
+   "nota": "casi_diciembre",
+   "imagen_fija": "img/casi_diciembre.jpg"
   },
   {
    "fecha": "2026-11-29",
@@ -43,10 +44,11 @@
   },
   {
    "fecha": "2026-12-01",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/navidad_cargando.jpg",
-   "nota": "navidad_cargando"
+   "archivo": "video/navidad_cargando.mp4",
+   "nota": "navidad_cargando",
+   "imagen_fija": "img/navidad_cargando.jpg"
   },
   {
    "fecha": "2026-12-02",
@@ -66,10 +68,11 @@
   },
   {
    "fecha": "2026-12-04",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/sabados.jpg",
-   "nota": "sabados"
+   "archivo": "video/sabados.mp4",
+   "nota": "sabados",
+   "imagen_fija": "img/sabados.jpg"
   },
   {
    "fecha": "2026-12-05",
@@ -89,10 +92,11 @@
   },
   {
    "fecha": "2026-12-07",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/velitas.jpg",
-   "nota": "velitas"
+   "archivo": "video/velitas.mp4",
+   "nota": "velitas",
+   "imagen_fija": "img/velitas.jpg"
   },
   {
    "fecha": "2026-12-08",
@@ -112,17 +116,19 @@
   },
   {
    "fecha": "2026-12-10",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/esta_noche.jpg",
-   "nota": "esta_noche"
+   "archivo": "video/esta_noche.mp4",
+   "nota": "esta_noche",
+   "imagen_fija": "img/esta_noche.jpg"
   },
   {
    "fecha": "2026-12-11",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/bola_navidad.jpg",
-   "nota": "bola_navidad"
+   "archivo": "video/bola_navidad.mp4",
+   "nota": "bola_navidad",
+   "imagen_fija": "img/bola_navidad.jpg"
   },
   {
    "fecha": "2026-12-12",
@@ -134,10 +140,11 @@
   },
   {
    "fecha": "2026-12-13",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/noticia_dance_open.jpg",
-   "nota": "noticia_dance_open"
+   "archivo": "video/noticia_dance_open.mp4",
+   "nota": "noticia_dance_open",
+   "imagen_fija": "img/noticia_dance_open.jpg"
   },
   {
    "fecha": "2026-12-14",
@@ -149,17 +156,19 @@
   },
   {
    "fecha": "2026-12-15",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/faltan_diez.jpg",
-   "nota": "faltan_diez"
+   "archivo": "video/faltan_diez.mp4",
+   "nota": "faltan_diez",
+   "imagen_fija": "img/faltan_diez.jpg"
   },
   {
    "fecha": "2026-12-16",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/dic_releve.jpg",
-   "nota": "dic_releve"
+   "archivo": "video/dic_releve.mp4",
+   "nota": "dic_releve",
+   "imagen_fija": "img/dic_releve.jpg"
   },
   {
    "fecha": "2026-12-17",
@@ -179,10 +188,11 @@
   },
   {
    "fecha": "2026-12-19",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/mascara.jpg",
-   "nota": "mascara"
+   "archivo": "video/mascara.mp4",
+   "nota": "mascara",
+   "imagen_fija": "img/mascara.jpg"
   },
   {
    "fecha": "2026-12-20",
@@ -202,10 +212,11 @@
   },
   {
    "fecha": "2026-12-22",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/temporadas.jpg",
-   "nota": "temporadas"
+   "archivo": "video/temporadas.mp4",
+   "nota": "temporadas",
+   "imagen_fija": "img/temporadas.jpg"
   },
   {
    "fecha": "2026-12-23",
@@ -217,17 +228,19 @@
   },
   {
    "fecha": "2026-12-24",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/nochebuena.jpg",
-   "nota": "nochebuena"
+   "archivo": "video/nochebuena.mp4",
+   "nota": "nochebuena",
+   "imagen_fija": "img/nochebuena.jpg"
   },
   {
    "fecha": "2026-12-25",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/feliz_navidad.jpg",
-   "nota": "feliz_navidad"
+   "archivo": "video/feliz_navidad.mp4",
+   "nota": "feliz_navidad",
+   "imagen_fija": "img/feliz_navidad.jpg"
   },
   {
    "fecha": "2026-12-26",
@@ -247,10 +260,11 @@
   },
   {
    "fecha": "2026-12-28",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/equipo.jpg",
-   "nota": "equipo"
+   "archivo": "video/equipo.mp4",
+   "nota": "equipo",
+   "imagen_fija": "img/equipo.jpg"
   },
   {
    "fecha": "2026-12-29",
@@ -270,17 +284,19 @@
   },
   {
    "fecha": "2026-12-31",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/fin_de_ano.jpg",
-   "nota": "fin_de_ano"
+   "archivo": "video/fin_de_ano.mp4",
+   "nota": "fin_de_ano",
+   "imagen_fija": "img/fin_de_ano.jpg"
   },
   {
    "fecha": "2027-01-01",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/ano_nuevo.jpg",
-   "nota": "ano_nuevo"
+   "archivo": "video/ano_nuevo.mp4",
+   "nota": "ano_nuevo",
+   "imagen_fija": "img/ano_nuevo.jpg"
   },
   {
    "fecha": "2027-01-02",
@@ -292,10 +308,11 @@
   },
   {
    "fecha": "2027-01-03",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/dic_portdebras.jpg",
-   "nota": "dic_portdebras"
+   "archivo": "video/dic_portdebras.mp4",
+   "nota": "dic_portdebras",
+   "imagen_fija": "img/dic_portdebras.jpg"
   },
   {
    "fecha": "2027-01-04",
@@ -315,10 +332,11 @@
   },
   {
    "fecha": "2027-01-06",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/poderosa.jpg",
-   "nota": "poderosa"
+   "archivo": "video/poderosa.mp4",
+   "nota": "poderosa",
+   "imagen_fija": "img/poderosa.jpg"
   },
   {
    "fecha": "2027-01-07",
@@ -338,10 +356,11 @@
   },
   {
    "fecha": "2027-01-09",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/clase_gratis_boleto.jpg",
-   "nota": "clase_gratis_boleto"
+   "archivo": "video/clase_gratis_boleto.mp4",
+   "nota": "clase_gratis_boleto",
+   "imagen_fija": "img/clase_gratis_boleto.jpg"
   },
   {
    "fecha": "2027-01-10",
@@ -361,10 +380,11 @@
   },
   {
    "fecha": "2027-01-12",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/horarios.jpg",
-   "nota": "horarios"
+   "archivo": "video/horarios.mp4",
+   "nota": "horarios",
+   "imagen_fija": "img/horarios.jpg"
   },
   {
    "fecha": "2027-01-13",
@@ -384,10 +404,11 @@
   },
   {
    "fecha": "2027-01-15",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/grupos_edad.jpg",
-   "nota": "grupos_edad"
+   "archivo": "video/grupos_edad.mp4",
+   "nota": "grupos_edad",
+   "imagen_fija": "img/grupos_edad.jpg"
   },
   {
    "fecha": "2027-01-16",
@@ -407,10 +428,11 @@
   },
   {
    "fecha": "2027-01-18",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/preguntas_mamas.jpg",
-   "nota": "preguntas_mamas"
+   "archivo": "video/preguntas_mamas.mp4",
+   "nota": "preguntas_mamas",
+   "imagen_fija": "img/preguntas_mamas.jpg"
   },
   {
    "fecha": "2027-01-19",
@@ -430,10 +452,11 @@
   },
   {
    "fecha": "2027-01-21",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/futuros.jpg",
-   "nota": "futuros"
+   "archivo": "video/futuros.mp4",
+   "nota": "futuros",
+   "imagen_fija": "img/futuros.jpg"
   },
   {
    "fecha": "2027-01-22",
@@ -453,10 +476,11 @@
   },
   {
    "fecha": "2027-01-24",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/matro_ballet.jpg",
-   "nota": "matro_ballet"
+   "archivo": "video/matro_ballet.mp4",
+   "nota": "matro_ballet",
+   "imagen_fija": "img/matro_ballet.jpg"
   },
   {
    "fecha": "2027-01-25",
@@ -476,10 +500,11 @@
   },
   {
    "fecha": "2027-01-27",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/nuestro_salon.jpg",
-   "nota": "nuestro_salon"
+   "archivo": "video/nuestro_salon.mp4",
+   "nota": "nuestro_salon",
+   "imagen_fija": "img/nuestro_salon.jpg"
   },
   {
    "fecha": "2027-01-28",
@@ -499,10 +524,11 @@
   },
   {
    "fecha": "2027-01-30",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/adultos.jpg",
-   "nota": "adultos"
+   "archivo": "video/adultos.mp4",
+   "nota": "adultos",
+   "imagen_fija": "img/adultos.jpg"
   },
   {
    "fecha": "2027-01-31",
@@ -522,10 +548,11 @@
   },
   {
    "fecha": "2027-02-02",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/resenas_google.jpg",
-   "nota": "resenas_google"
+   "archivo": "video/resenas_google.mp4",
+   "nota": "resenas_google",
+   "imagen_fija": "img/resenas_google.jpg"
   },
   {
    "fecha": "2027-02-03",
@@ -545,10 +572,11 @@
   },
   {
    "fecha": "2027-02-05",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/velas_gala.jpg",
-   "nota": "velas_gala"
+   "archivo": "video/velas_gala.mp4",
+   "nota": "velas_gala",
+   "imagen_fija": "img/velas_gala.jpg"
   },
   {
    "fecha": "2027-02-06",
@@ -568,10 +596,11 @@
   },
   {
    "fecha": "2027-02-08",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/saltar.jpg",
-   "nota": "saltar"
+   "archivo": "video/saltar.mp4",
+   "nota": "saltar",
+   "imagen_fija": "img/saltar.jpg"
   },
   {
    "fecha": "2027-02-09",
@@ -583,10 +612,11 @@
   },
   {
    "fecha": "2027-02-10",
-   "tipo": "imagen",
+   "tipo": "video",
    "fuente": "repo",
-   "archivo": "img/dic_arabesque.jpg",
-   "nota": "dic_arabesque"
+   "archivo": "video/dic_arabesque.mp4",
+   "nota": "dic_arabesque",
+   "imagen_fija": "img/dic_arabesque.jpg"
   }
  ]
 }
