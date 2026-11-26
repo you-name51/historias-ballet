@@ -1,9 +1,10 @@
 {
  "cuenta": "fundacionballetdecucuta",
- "hora_local": "20:00 America/Bogota",
+ "hora_local": "13:00 y 20:00 America/Bogota",
  "cola": [
   {
    "fecha": "2026-11-26",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "17916659034557422",
@@ -11,7 +12,17 @@
    "nota": "Nadie esperaba esto en plena función de ballet 😳🩰 Míralo hasta el final… 😂"
   },
   {
+   "fecha": "2026-11-26",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/esta_noche.mp4",
+   "nota": "esta_noche",
+   "imagen_fija": "img/esta_noche.jpg"
+  },
+  {
    "fecha": "2026-11-27",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18128827534860503",
@@ -19,15 +30,8 @@
    "nota": "El paso era el mismo, ¡pero el personaje lo ponía cada una! 🎃🩰 Así llegaron las chicas de"
   },
   {
-   "fecha": "2026-11-28",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/casi_diciembre.mp4",
-   "nota": "casi_diciembre",
-   "imagen_fija": "img/casi_diciembre.jpg"
-  },
-  {
-   "fecha": "2026-11-29",
+   "fecha": "2026-11-27",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "17967346067997193",
@@ -35,7 +39,17 @@
    "nota": "🌟 ¡La magia del ballet está presente en cada movimiento!🌟"
   },
   {
-   "fecha": "2026-11-30",
+   "fecha": "2026-11-28",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/casi_diciembre.mp4",
+   "nota": "casi_diciembre",
+   "imagen_fija": "img/casi_diciembre.jpg"
+  },
+  {
+   "fecha": "2026-11-28",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18288338500291614",
@@ -43,15 +57,17 @@
    "nota": "🎭✨ Detrás de cada gran espectáculo hay historias que el público no alcanza a ver… ❤️"
   },
   {
-   "fecha": "2026-12-01",
+   "fecha": "2026-11-29",
+   "hora": "13",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/navidad_cargando.mp4",
-   "nota": "navidad_cargando",
-   "imagen_fija": "img/navidad_cargando.jpg"
+   "archivo": "video/noticia_dance_open.mp4",
+   "nota": "noticia_dance_open",
+   "imagen_fija": "img/noticia_dance_open.jpg"
   },
   {
-   "fecha": "2026-12-02",
+   "fecha": "2026-11-29",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18136855762570956",
@@ -59,7 +75,8 @@
    "nota": "✨🎭 El arte transforma, une y mantiene viva la esencia de nuestra ciudad."
   },
   {
-   "fecha": "2026-12-03",
+   "fecha": "2026-11-30",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18331487308213222",
@@ -67,15 +84,26 @@
    "nota": "Esta es una muestra del proyecto ganador del Programa Municipal de Estímulos 2025, Fase 2"
   },
   {
-   "fecha": "2026-12-04",
+   "fecha": "2026-11-30",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/sabados.mp4",
-   "nota": "sabados",
-   "imagen_fija": "img/sabados.jpg"
+   "archivo": "video/dic_releve.mp4",
+   "nota": "dic_releve",
+   "imagen_fija": "img/dic_releve.jpg"
   },
   {
-   "fecha": "2026-12-05",
+   "fecha": "2026-12-01",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/navidad_cargando.mp4",
+   "nota": "navidad_cargando",
+   "imagen_fija": "img/navidad_cargando.jpg"
+  },
+  {
+   "fecha": "2026-12-01",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18136502692656764",
@@ -83,7 +111,8 @@
    "nota": "Pequeños pasos, grandes sueños. 🩰✨"
   },
   {
-   "fecha": "2026-12-06",
+   "fecha": "2026-12-02",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18094510739442870",
@@ -91,7 +120,98 @@
    "nota": "🩰✨ Cada pequeño paso es el comienzo de un gran sueño. 💕"
   },
   {
+   "fecha": "2026-12-02",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/mascara.mp4",
+   "nota": "mascara",
+   "imagen_fija": "img/mascara.jpg"
+  },
+  {
+   "fecha": "2026-12-03",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17973594461917441",
+   "permalink": "https://www.instagram.com/reel/DNj76wJOgQI/",
+   "nota": "🩰 ¡Ballet: Donde los Sueños Danzan sin Límites! 🌟"
+  },
+  {
+   "fecha": "2026-12-03",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18102881939128895",
+   "permalink": "https://www.instagram.com/reel/DeP09Q2PI0Y/",
+   "nota": "🩰🏆✨ ¡DE CÚCUTA PARA LOS GRANDES ESCENARIOS! 🇨🇴❤️"
+  },
+  {
+   "fecha": "2026-12-04",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/sabados.mp4",
+   "nota": "sabados",
+   "imagen_fija": "img/sabados.jpg"
+  },
+  {
+   "fecha": "2026-12-04",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17879090853627636",
+   "permalink": "https://www.instagram.com/reel/Ddd-C2sxJjW/",
+   "nota": "🩰🤍 Hay etapas de sus vidas que pasan demasiado rápido… hagámoslas inolvidables."
+  },
+  {
+   "fecha": "2026-12-05",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/temporadas.mp4",
+   "nota": "temporadas",
+   "imagen_fija": "img/temporadas.jpg"
+  },
+  {
+   "fecha": "2026-12-05",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17955077231968137",
+   "permalink": "https://www.instagram.com/reel/DLk9B2TOiqe/",
+   "nota": "🌊🩰 ¡Una clausura inolvidable! En la Fundación Ballet de Cúcuta, vivimos una experiencia ún"
+  },
+  {
+   "fecha": "2026-12-06",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17952826773256564",
+   "permalink": "https://www.instagram.com/reel/DddEIvxhueI/",
+   "nota": "🩰💝 En el ballet también aprendemos a ser grandes amigos."
+  },
+  {
+   "fecha": "2026-12-06",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/equipo.mp4",
+   "nota": "equipo",
+   "imagen_fija": "img/equipo.jpg"
+  },
+  {
    "fecha": "2026-12-07",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17958343979998452",
+   "permalink": "https://www.instagram.com/reel/Dc6eHzRhOrB/",
+   "nota": "¿Sabías que la cebollita es parte de la disciplina del ballet? 🩰"
+  },
+  {
+   "fecha": "2026-12-07",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/velitas.mp4",
@@ -100,30 +220,70 @@
   },
   {
    "fecha": "2026-12-08",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17973594461917441",
-   "permalink": "https://www.instagram.com/reel/DNj76wJOgQI/",
-   "nota": "🩰 ¡Ballet: Donde los Sueños Danzan sin Límites! 🌟"
+   "ig_media_id": "18012602060754633",
+   "permalink": "https://www.instagram.com/reel/DLaV3miuqh-/",
+   "nota": "🩰✨ ¡La danza transforma vidas!"
+  },
+  {
+   "fecha": "2026-12-08",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/dic_portdebras.mp4",
+   "nota": "dic_portdebras",
+   "imagen_fija": "img/dic_portdebras.jpg"
   },
   {
    "fecha": "2026-12-09",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "18102881939128895",
-   "permalink": "https://www.instagram.com/reel/DeP09Q2PI0Y/",
-   "nota": "🩰🏆✨ ¡DE CÚCUTA PARA LOS GRANDES ESCENARIOS! 🇨🇴❤️"
+   "ig_media_id": "17916109404244675",
+   "permalink": "https://www.instagram.com/reel/DcvuFeqxkpL/",
+   "nota": "🩰✨ ¿Tu pequeño sueña con bailar, girar y brillar sobre un escenario?"
+  },
+  {
+   "fecha": "2026-12-09",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18116264785967999",
+   "permalink": "https://www.instagram.com/reel/DclzMjzhlvb/",
+   "nota": "🩰✨ Un moño de ballet es mucho más que un peinado: representa disciplina, cuidado, presenta"
   },
   {
    "fecha": "2026-12-10",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17923048512008860",
+   "permalink": "https://www.instagram.com/reel/DLXva83OQPH/",
+   "nota": "✨ Ayer fue un día mágico en el monumental Teatro Las Cascadas del Malecón, donde la secret"
+  },
+  {
+   "fecha": "2026-12-10",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/esta_noche.mp4",
-   "nota": "esta_noche",
-   "imagen_fija": "img/esta_noche.jpg"
+   "archivo": "video/poderosa.mp4",
+   "nota": "poderosa",
+   "imagen_fija": "img/poderosa.jpg"
   },
   {
    "fecha": "2026-12-11",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18118764350301041",
+   "permalink": "https://www.instagram.com/reel/Dcg5WtMhEOn/",
+   "nota": "🩰💦 EXPECTATIVA vs. REALIDAD: BALLET EN EL AGUA 😂"
+  },
+  {
+   "fecha": "2026-12-11",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/bola_navidad.mp4",
@@ -132,30 +292,61 @@
   },
   {
    "fecha": "2026-12-12",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17879090853627636",
-   "permalink": "https://www.instagram.com/reel/Ddd-C2sxJjW/",
-   "nota": "🩰🤍 Hay etapas de sus vidas que pasan demasiado rápido… hagámoslas inolvidables."
+   "ig_media_id": "17905963386501029",
+   "permalink": "https://www.instagram.com/reel/Dce6APdQdV2/",
+   "nota": "🌻 “Tienes en los ojos girasoles cuando me miras…” 🌻"
+  },
+  {
+   "fecha": "2026-12-12",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/velas_gala.mp4",
+   "nota": "velas_gala",
+   "imagen_fija": "img/velas_gala.jpg"
   },
   {
    "fecha": "2026-12-13",
+   "hora": "13",
    "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/noticia_dance_open.mp4",
-   "nota": "noticia_dance_open",
-   "imagen_fija": "img/noticia_dance_open.jpg"
+   "fuente": "instagram",
+   "ig_media_id": "18075083689927847",
+   "permalink": "https://www.instagram.com/reel/DLH-cJzA8XG/",
+   "nota": "Cada paso tiene una historia… 🩰"
+  },
+  {
+   "fecha": "2026-12-13",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18202714324318650",
+   "permalink": "https://www.instagram.com/reel/Dbi6StPMUNg/",
+   "nota": "Hay sueños que empiezan con un primer paso… y otros que comienzan con una clase de ballet."
   },
   {
    "fecha": "2026-12-14",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/saltar.mp4",
+   "nota": "saltar",
+   "imagen_fija": "img/saltar.jpg"
+  },
+  {
+   "fecha": "2026-12-14",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17955077231968137",
-   "permalink": "https://www.instagram.com/reel/DLk9B2TOiqe/",
-   "nota": "🌊🩰 ¡Una clausura inolvidable! En la Fundación Ballet de Cúcuta, vivimos una experiencia ún"
+   "ig_media_id": "18137394079564846",
+   "permalink": "https://www.instagram.com/reel/DbYtNPqsTsC/",
+   "nota": "ELLA ES ROSARIO"
   },
   {
    "fecha": "2026-12-15",
+   "hora": "13",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/faltan_diez.mp4",
@@ -163,71 +354,170 @@
    "imagen_fija": "img/faltan_diez.jpg"
   },
   {
+   "fecha": "2026-12-15",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18072481045698560",
+   "permalink": "https://www.instagram.com/reel/DG6Xc8MPpTJ/",
+   "nota": "Nuestro programa de ballet en el Hogar de Paso Santa Rosa de Lima es una iniciativa de lab"
+  },
+  {
    "fecha": "2026-12-16",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17945011341259295",
+   "permalink": "https://www.instagram.com/reel/DbDu9v6hvmW/",
+   "nota": "✨ Cada gran bailarín comienza con un primer paso."
+  },
+  {
+   "fecha": "2026-12-16",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/dic_releve.mp4",
-   "nota": "dic_releve",
-   "imagen_fija": "img/dic_releve.jpg"
+   "archivo": "video/dic_arabesque.mp4",
+   "nota": "dic_arabesque",
+   "imagen_fija": "img/dic_arabesque.jpg"
   },
   {
    "fecha": "2026-12-17",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17952826773256564",
-   "permalink": "https://www.instagram.com/reel/DddEIvxhueI/",
-   "nota": "🩰💝 En el ballet también aprendemos a ser grandes amigos."
+   "ig_media_id": "18065817473464901",
+   "permalink": "https://www.instagram.com/reel/DaF4fBSBJaZ/",
+   "nota": "Cada gran bailarina comenzó con un pequeño paso."
+  },
+  {
+   "fecha": "2026-12-17",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18033431087190091",
+   "permalink": "https://www.instagram.com/reel/DAW6a7POFTJ/",
+   "nota": "Porque no todo el ballet es perfecto. Un poco de los bloopers de nuestros bailarines juven"
   },
   {
    "fecha": "2026-12-18",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/boleto_bailarina.mp4",
+   "nota": "boleto_bailarina",
+   "imagen_fija": "img/boleto_bailarina.jpg"
+  },
+  {
+   "fecha": "2026-12-18",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17958343979998452",
-   "permalink": "https://www.instagram.com/reel/Dc6eHzRhOrB/",
-   "nota": "¿Sabías que la cebollita es parte de la disciplina del ballet? 🩰"
+   "ig_media_id": "18450747499184287",
+   "permalink": "https://www.instagram.com/reel/DaA8Eh7h4mG/",
+   "nota": "¡Pequeños pasos, grandes recuerdos! ✨🩰"
   },
   {
    "fecha": "2026-12-19",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18080495441188026",
+   "permalink": "https://www.instagram.com/reel/DY8nInvOdaR/",
+   "nota": "Detrás de cada gran espectáculo existe una historia que el público pocas veces ve."
+  },
+  {
+   "fecha": "2026-12-19",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/mascara.mp4",
-   "nota": "mascara",
-   "imagen_fija": "img/mascara.jpg"
+   "archivo": "video/horarios.mp4",
+   "nota": "horarios",
+   "imagen_fija": "img/horarios.jpg"
   },
   {
    "fecha": "2026-12-20",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "18012602060754633",
-   "permalink": "https://www.instagram.com/reel/DLaV3miuqh-/",
-   "nota": "🩰✨ ¡La danza transforma vidas!"
+   "ig_media_id": "18014195594330610",
+   "permalink": "https://www.instagram.com/reel/DAHGPTty3HE/",
+   "nota": "nuestro #tbt  de #aliciaenelpaisdelasmaravillas"
+  },
+  {
+   "fecha": "2026-12-20",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18130810036492499",
+   "permalink": "https://www.instagram.com/reel/DXXEqkqpHEQ/",
+   "nota": "Hay momentos que van más allá de una clase… 💛"
   },
   {
    "fecha": "2026-12-21",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "17916109404244675",
-   "permalink": "https://www.instagram.com/reel/DcvuFeqxkpL/",
-   "nota": "🩰✨ ¿Tu pequeño sueña con bailar, girar y brillar sobre un escenario?"
+   "ig_media_id": "18106756235495418",
+   "permalink": "https://www.instagram.com/reel/DWkpR7XN4FQ/",
+   "nota": "✨ No es solo ballet…"
+  },
+  {
+   "fecha": "2026-12-21",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/grupos_edad.mp4",
+   "nota": "grupos_edad",
+   "imagen_fija": "img/grupos_edad.jpg"
   },
   {
    "fecha": "2026-12-22",
+   "hora": "13",
    "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/temporadas.mp4",
-   "nota": "temporadas",
-   "imagen_fija": "img/temporadas.jpg"
+   "fuente": "instagram",
+   "ig_media_id": "17935105421794557",
+   "permalink": "https://www.instagram.com/reel/C_cA7OCO2-A/",
+   "nota": "“En cada punta, un universo de emociones y posibilidades. El trabajo en puntas no es solo"
+  },
+  {
+   "fecha": "2026-12-22",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18037205048740342",
+   "permalink": "https://www.instagram.com/reel/DUToIRNAb9m/",
+   "nota": "🌟 ¡Bienvenidos al mágico mundo del Baby Ballet! 🌟"
   },
   {
    "fecha": "2026-12-23",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/preguntas_mamas.mp4",
+   "nota": "preguntas_mamas",
+   "imagen_fija": "img/preguntas_mamas.jpg"
+  },
+  {
+   "fecha": "2026-12-23",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
-   "ig_media_id": "18116264785967999",
-   "permalink": "https://www.instagram.com/reel/DclzMjzhlvb/",
-   "nota": "🩰✨ Un moño de ballet es mucho más que un peinado: representa disciplina, cuidado, presenta"
+   "ig_media_id": "18170585872354168",
+   "permalink": "https://www.instagram.com/reel/DUPEe_okqUy/",
+   "nota": "🌟 ¡Haz que tus sueños de danza cobren vida! 🌟"
   },
   {
    "fecha": "2026-12-24",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18070036657582944",
+   "permalink": "https://www.instagram.com/reel/C_RDAM4v3Ir/",
+   "nota": "🎥✨ ¡Revive la magia del ballet! Nuestras talentosas estudiantes han tenido la oportunidad"
+  },
+  {
+   "fecha": "2026-12-24",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/nochebuena.mp4",
@@ -236,6 +526,7 @@
   },
   {
    "fecha": "2026-12-25",
+   "hora": "13",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/feliz_navidad.mp4",
@@ -243,215 +534,8 @@
    "imagen_fija": "img/feliz_navidad.jpg"
   },
   {
-   "fecha": "2026-12-26",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "17923048512008860",
-   "permalink": "https://www.instagram.com/reel/DLXva83OQPH/",
-   "nota": "✨ Ayer fue un día mágico en el monumental Teatro Las Cascadas del Malecón, donde la secret"
-  },
-  {
-   "fecha": "2026-12-27",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18118764350301041",
-   "permalink": "https://www.instagram.com/reel/Dcg5WtMhEOn/",
-   "nota": "🩰💦 EXPECTATIVA vs. REALIDAD: BALLET EN EL AGUA 😂"
-  },
-  {
-   "fecha": "2026-12-28",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/equipo.mp4",
-   "nota": "equipo",
-   "imagen_fija": "img/equipo.jpg"
-  },
-  {
-   "fecha": "2026-12-29",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "17905963386501029",
-   "permalink": "https://www.instagram.com/reel/Dce6APdQdV2/",
-   "nota": "🌻 “Tienes en los ojos girasoles cuando me miras…” 🌻"
-  },
-  {
-   "fecha": "2026-12-30",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18075083689927847",
-   "permalink": "https://www.instagram.com/reel/DLH-cJzA8XG/",
-   "nota": "Cada paso tiene una historia… 🩰"
-  },
-  {
-   "fecha": "2026-12-31",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/fin_de_ano.mp4",
-   "nota": "fin_de_ano",
-   "imagen_fija": "img/fin_de_ano.jpg"
-  },
-  {
-   "fecha": "2027-01-01",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/ano_nuevo.mp4",
-   "nota": "ano_nuevo",
-   "imagen_fija": "img/ano_nuevo.jpg"
-  },
-  {
-   "fecha": "2027-01-02",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18202714324318650",
-   "permalink": "https://www.instagram.com/reel/Dbi6StPMUNg/",
-   "nota": "Hay sueños que empiezan con un primer paso… y otros que comienzan con una clase de ballet."
-  },
-  {
-   "fecha": "2027-01-03",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/dic_portdebras.mp4",
-   "nota": "dic_portdebras",
-   "imagen_fija": "img/dic_portdebras.jpg"
-  },
-  {
-   "fecha": "2027-01-04",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18137394079564846",
-   "permalink": "https://www.instagram.com/reel/DbYtNPqsTsC/",
-   "nota": "ELLA ES ROSARIO"
-  },
-  {
-   "fecha": "2027-01-05",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18072481045698560",
-   "permalink": "https://www.instagram.com/reel/DG6Xc8MPpTJ/",
-   "nota": "Nuestro programa de ballet en el Hogar de Paso Santa Rosa de Lima es una iniciativa de lab"
-  },
-  {
-   "fecha": "2027-01-06",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/poderosa.mp4",
-   "nota": "poderosa",
-   "imagen_fija": "img/poderosa.jpg"
-  },
-  {
-   "fecha": "2027-01-07",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "17945011341259295",
-   "permalink": "https://www.instagram.com/reel/DbDu9v6hvmW/",
-   "nota": "✨ Cada gran bailarín comienza con un primer paso."
-  },
-  {
-   "fecha": "2027-01-08",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18065817473464901",
-   "permalink": "https://www.instagram.com/reel/DaF4fBSBJaZ/",
-   "nota": "Cada gran bailarina comenzó con un pequeño paso."
-  },
-  {
-   "fecha": "2027-01-09",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/boleto_bailarina.mp4",
-   "nota": "boleto_bailarina",
-   "imagen_fija": "img/boleto_bailarina.jpg"
-  },
-  {
-   "fecha": "2027-01-10",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18033431087190091",
-   "permalink": "https://www.instagram.com/reel/DAW6a7POFTJ/",
-   "nota": "Porque no todo el ballet es perfecto. Un poco de los bloopers de nuestros bailarines juven"
-  },
-  {
-   "fecha": "2027-01-11",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18450747499184287",
-   "permalink": "https://www.instagram.com/reel/DaA8Eh7h4mG/",
-   "nota": "¡Pequeños pasos, grandes recuerdos! ✨🩰"
-  },
-  {
-   "fecha": "2027-01-12",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/horarios.mp4",
-   "nota": "horarios",
-   "imagen_fija": "img/horarios.jpg"
-  },
-  {
-   "fecha": "2027-01-13",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18080495441188026",
-   "permalink": "https://www.instagram.com/reel/DY8nInvOdaR/",
-   "nota": "Detrás de cada gran espectáculo existe una historia que el público pocas veces ve."
-  },
-  {
-   "fecha": "2027-01-14",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18014195594330610",
-   "permalink": "https://www.instagram.com/reel/DAHGPTty3HE/",
-   "nota": "nuestro #tbt  de #aliciaenelpaisdelasmaravillas"
-  },
-  {
-   "fecha": "2027-01-15",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/grupos_edad.mp4",
-   "nota": "grupos_edad",
-   "imagen_fija": "img/grupos_edad.jpg"
-  },
-  {
-   "fecha": "2027-01-16",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18130810036492499",
-   "permalink": "https://www.instagram.com/reel/DXXEqkqpHEQ/",
-   "nota": "Hay momentos que van más allá de una clase… 💛"
-  },
-  {
-   "fecha": "2027-01-17",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18106756235495418",
-   "permalink": "https://www.instagram.com/reel/DWkpR7XN4FQ/",
-   "nota": "✨ No es solo ballet…"
-  },
-  {
-   "fecha": "2027-01-18",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/preguntas_mamas.mp4",
-   "nota": "preguntas_mamas",
-   "imagen_fija": "img/preguntas_mamas.jpg"
-  },
-  {
-   "fecha": "2027-01-19",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "17935105421794557",
-   "permalink": "https://www.instagram.com/reel/C_cA7OCO2-A/",
-   "nota": "“En cada punta, un universo de emociones y posibilidades. El trabajo en puntas no es solo"
-  },
-  {
-   "fecha": "2027-01-20",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18037205048740342",
-   "permalink": "https://www.instagram.com/reel/DUToIRNAb9m/",
-   "nota": "🌟 ¡Bienvenidos al mágico mundo del Baby Ballet! 🌟"
-  },
-  {
-   "fecha": "2027-01-21",
+   "fecha": "2026-12-25",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
    "archivo": "video/futuros.mp4",
@@ -459,31 +543,8 @@
    "imagen_fija": "img/futuros.jpg"
   },
   {
-   "fecha": "2027-01-22",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18170585872354168",
-   "permalink": "https://www.instagram.com/reel/DUPEe_okqUy/",
-   "nota": "🌟 ¡Haz que tus sueños de danza cobren vida! 🌟"
-  },
-  {
-   "fecha": "2027-01-23",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18070036657582944",
-   "permalink": "https://www.instagram.com/reel/C_RDAM4v3Ir/",
-   "nota": "🎥✨ ¡Revive la magia del ballet! Nuestras talentosas estudiantes han tenido la oportunidad"
-  },
-  {
-   "fecha": "2027-01-24",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/matro_ballet.mp4",
-   "nota": "matro_ballet",
-   "imagen_fija": "img/matro_ballet.jpg"
-  },
-  {
-   "fecha": "2027-01-25",
+   "fecha": "2026-12-26",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18160855072411390",
@@ -491,7 +552,8 @@
    "nota": "🌟 ¡Descubre la magia del ballet! 🌟"
   },
   {
-   "fecha": "2027-01-26",
+   "fecha": "2026-12-26",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18036058070152347",
@@ -499,15 +561,8 @@
    "nota": "🎭✨ ¡Hola a todos! Soy Isabela Martínez y quiero compartir con ustedes mi pasión por el bal"
   },
   {
-   "fecha": "2027-01-27",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/nuestro_salon.mp4",
-   "nota": "nuestro_salon",
-   "imagen_fija": "img/nuestro_salon.jpg"
-  },
-  {
-   "fecha": "2027-01-28",
+   "fecha": "2026-12-27",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "17988350351536326",
@@ -515,7 +570,17 @@
    "nota": "🎶✨ ¡Conoce a nuestra talentosa estudiante de ballet clásico, María Juliana Sánchez! ✨🎶"
   },
   {
-   "fecha": "2027-01-29",
+   "fecha": "2026-12-27",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/matro_ballet.mp4",
+   "nota": "matro_ballet",
+   "imagen_fija": "img/matro_ballet.jpg"
+  },
+  {
+   "fecha": "2026-12-28",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18041302711975307",
@@ -523,15 +588,8 @@
    "nota": "🎉✨ ¡Atención, papás y mamás! ✨🎉"
   },
   {
-   "fecha": "2027-01-30",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/adultos.mp4",
-   "nota": "adultos",
-   "imagen_fija": "img/adultos.jpg"
-  },
-  {
-   "fecha": "2027-01-31",
+   "fecha": "2026-12-28",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "17880283827052869",
@@ -539,7 +597,17 @@
    "nota": "🌟✨ ¡Descubre la magia 🪄 del ballet 🩰 en la Fundación Ballet de Cúcuta! 🎭💖"
   },
   {
-   "fecha": "2027-02-01",
+   "fecha": "2026-12-29",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/nuestro_salon.mp4",
+   "nota": "nuestro_salon",
+   "imagen_fija": "img/nuestro_salon.jpg"
+  },
+  {
+   "fecha": "2026-12-29",
+   "hora": "20",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "18279732604225964",
@@ -547,63 +615,8 @@
    "nota": "🌟✨ ¡Descubre el poder del ballet en la Fundación Ballet de Cúcuta! 🎭💖"
   },
   {
-   "fecha": "2027-02-02",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/resenas_google.mp4",
-   "nota": "resenas_google",
-   "imagen_fija": "img/resenas_google.jpg"
-  },
-  {
-   "fecha": "2027-02-03",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18016991696237635",
-   "permalink": "https://www.instagram.com/reel/C-wcZF3u29a/",
-   "nota": "Hoy, estamos emocionados de compartir un momento especial con todos ustedes. ,Tuvimos el h"
-  },
-  {
-   "fecha": "2027-02-04",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18449987281050258",
-   "permalink": "https://www.instagram.com/reel/C9_AH_9O0J9/",
-   "nota": "—"
-  },
-  {
-   "fecha": "2027-02-05",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/velas_gala.mp4",
-   "nota": "velas_gala",
-   "imagen_fija": "img/velas_gala.jpg"
-  },
-  {
-   "fecha": "2027-02-06",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "18193881301294835",
-   "permalink": "https://www.instagram.com/reel/C9lJAwEuML_/",
-   "nota": "#TBT"
-  },
-  {
-   "fecha": "2027-02-07",
-   "tipo": "video",
-   "fuente": "instagram",
-   "ig_media_id": "17953991813681373",
-   "permalink": "https://www.instagram.com/reel/C8pub3lPVaB/",
-   "nota": "✨🍭Revive la magia de WONKA danzando en la fábrica de chocolates🩰🍫"
-  },
-  {
-   "fecha": "2027-02-08",
-   "tipo": "video",
-   "fuente": "repo",
-   "archivo": "video/saltar.mp4",
-   "nota": "saltar",
-   "imagen_fija": "img/saltar.jpg"
-  },
-  {
-   "fecha": "2027-02-09",
+   "fecha": "2026-12-30",
+   "hora": "13",
    "tipo": "video",
    "fuente": "instagram",
    "ig_media_id": "17889171842984424",
@@ -611,12 +624,76 @@
    "nota": "✨🍭Revive la magia de WONKA danzando en la fábrica de chocolates🩰🍫"
   },
   {
-   "fecha": "2027-02-10",
+   "fecha": "2026-12-30",
+   "hora": "20",
    "tipo": "video",
    "fuente": "repo",
-   "archivo": "video/dic_arabesque.mp4",
-   "nota": "dic_arabesque",
-   "imagen_fija": "img/dic_arabesque.jpg"
+   "archivo": "video/adultos.mp4",
+   "nota": "adultos",
+   "imagen_fija": "img/adultos.jpg"
+  },
+  {
+   "fecha": "2026-12-31",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/fin_de_ano.mp4",
+   "nota": "fin_de_ano",
+   "imagen_fija": "img/fin_de_ano.jpg"
+  },
+  {
+   "fecha": "2026-12-31",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18449987281050258",
+   "permalink": "https://www.instagram.com/reel/C9_AH_9O0J9/",
+   "nota": "—"
+  },
+  {
+   "fecha": "2027-01-01",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/ano_nuevo.mp4",
+   "nota": "ano_nuevo",
+   "imagen_fija": "img/ano_nuevo.jpg"
+  },
+  {
+   "fecha": "2027-01-01",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18193881301294835",
+   "permalink": "https://www.instagram.com/reel/C9lJAwEuML_/",
+   "nota": "#TBT"
+  },
+  {
+   "fecha": "2027-01-02",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "17953991813681373",
+   "permalink": "https://www.instagram.com/reel/C8pub3lPVaB/",
+   "nota": "✨🍭Revive la magia de WONKA danzando en la fábrica de chocolates🩰🍫"
+  },
+  {
+   "fecha": "2027-01-02",
+   "hora": "20",
+   "tipo": "video",
+   "fuente": "repo",
+   "archivo": "video/resenas_google.mp4",
+   "nota": "resenas_google",
+   "imagen_fija": "img/resenas_google.jpg"
+  },
+  {
+   "fecha": "2027-01-03",
+   "hora": "13",
+   "tipo": "video",
+   "fuente": "instagram",
+   "ig_media_id": "18016991696237635",
+   "permalink": "https://www.instagram.com/reel/C-wcZF3u29a/",
+   "nota": "Hoy, estamos emocionados de compartir un momento especial con todos ustedes. ,Tuvimos el h"
   }
  ]
 }
